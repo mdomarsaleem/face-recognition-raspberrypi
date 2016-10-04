@@ -1,0 +1,4 @@
+*/2 * * * 1-5 /home/pi/Desktop/files/file_transfer.sh
+TZ=IST
+0 9 * * * /home/pi/rasp_on.sh >> /home/pi/Desktop/files/logs/error.log 2>&1
+
