@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sshpass -pPassword14 rsync -avP /home/pi/Desktop/Image_db/* mckc@192.168.100.94:/home/mckc/Raspberry
+sshpass -p(password) rsync -avP /home/pi/Desktop/Image_db/* (username)@(server ip address):/home/mckc/Raspberry
 
-ping -c 1 192.168.100.94 &> /dev/null && rm -r /home/pi/Desktop/Image_db/* || echo fail
+ping -c 1 (server ip) &> /dev/null && rm -r /home/pi/Desktop/Image_db/* || echo fail
