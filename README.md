@@ -1,6 +1,8 @@
 # Facial_Plan
 Face Recognition Using raspberry Pi and deep learning
 
+---
+
 
 The motto of this project is create a facial recogniation model using deep learning on raspberry pi.
 
@@ -10,3 +12,7 @@ The frame work used in this project are tflearn(abstracted-tensorflow) and keras
 
 Looking forward for implemnetation using all multiprocessing option of tensorflow
   
+
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).
