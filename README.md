@@ -4,7 +4,7 @@ Face Recognition Using raspberry Pi and deep learning
 ---
 
 
-The motto of this project is create a facial recogniation model using deep learning on raspberry pi.
+The motto of this project is create a facial recognition model using deep learning on raspberry pi.
 
 The main focus is to create a very robust dynamic model which can identify the face real-time with real time speed and with high accuracy. This repository contains the most cleaned code(Few of experiments are available but most are cleaned)
 
