@@ -14,8 +14,6 @@ This repository implements a deep learning-based face recognition system designe
 
 - **Custom Dataset Training and Inference**: Provides scripts to capture face images and create custom datasets, enabling users to train the model on new faces not present in the default dataset.
 
-- **Email and Notification Integration**: Optional feature to send email notifications or alerts when a specific face is recognized, making it suitable for security and monitoring purposes.
-
 - **Lightweight and Efficient Implementation**: The code is optimized to run on Raspberry Pi, managing memory and processing resources effectively to prevent overheating or crashes.
 
 #### Deep Learning Techniques:
